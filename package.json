@@ -120,5 +120,13 @@
     "test": "test"
   },
   "keywords": [],
-  "author": ""
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GtpsFinance/CoolSwap-interface-master-New-Frontend-Frontend-okay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GtpsFinance/CoolSwap-interface-master-New-Frontend-Frontend-okay/issues"
+  },
+  "homepage": "https://github.com/GtpsFinance/CoolSwap-interface-master-New-Frontend-Frontend-okay#readme"
 }
